@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to accessing non-existent properties of HTML elements. The bug is present in `bug.html` and its solution is provided in `bugSolution.html`.  The bug can lead to unexpected behavior or errors in certain browsers. The solution involves adding error handling to gracefully manage cases where the property does not exist.
